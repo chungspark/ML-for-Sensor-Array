@@ -1,8 +1,5 @@
 """Random-forest classification and regression of sensor-array responses.
-
-Place '00_Sensor Array Responses.csv' in the working directory.
 CSV rows: gas type, concentration (ppm), S1, S2, S3, S4.
-Each column represents one measurement; MM denotes MeSH.
 """
 
 import numpy as np
